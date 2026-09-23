@@ -42,7 +42,7 @@ MONGO_DB=recipelibrary
 
 MONGO_USER=admin
 
-MONGO_PASSWORD=korzre123
+MONGO_PASSWORD=*********
 
 
 ````
